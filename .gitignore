@@ -1,0 +1,6 @@
+dex/package-lock.json
+dexBack/.env.example
+dex/node_modules/
+package-lock.json
+node_modules/
+dexBack/.env.example
